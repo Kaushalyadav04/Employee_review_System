@@ -31,7 +31,7 @@ A scalable full stack web application which lets admin **to create employee, Ass
   2) Change the current working directory to the location where you want the cloned directory.
 
   ```
-  $ git clone https://github.com/gauravkhede/employee_review_system
+ 
   ```
 
   3) Install all the dependencies by running :
