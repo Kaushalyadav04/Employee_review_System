@@ -1,7 +1,7 @@
 # employee_review_system
 # employee_review_system
 A scalable full stack web application which lets admin **to create employee, Assign employees to participate in another employee's performance review**.
-Deployed at : https://employee-review-system-gaurav.herokuapp.com/
+
 # Tech Stack Used:
 ## Node.js:
    for server-side scripting.
