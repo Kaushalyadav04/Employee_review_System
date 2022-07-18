@@ -7,7 +7,7 @@ const passport=require('passport');
 
 router.get('/',homeController.signIn);
 router.get('/home',homeController.home);
-
+console.log('check routes');
 // router.post('/create-session',passport.authenticate(
 //     'local',
 //     {failureRedirect:'/user-signout'},
